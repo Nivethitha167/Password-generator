@@ -1,5 +1,5 @@
 # Password-generator
-+ This web application generates password using HTML, CSS and JAVASCRIPT.
++ This web application generates password with the maximum length of 15.
 
 ## Languages Used
 + HTML
