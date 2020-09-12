@@ -1,5 +1,5 @@
 # Password-generator
-+ This web application generates a strong random password with the maximum length of 15.
++ This web application generates a strong random password.
 
 ## Languages Used
 + HTML
