@@ -1,5 +1,5 @@
 # Password-generator
-+ This web application generates a strong random password.
++ This web application generates a strong password.
 
 ## Languages Used
 + HTML
